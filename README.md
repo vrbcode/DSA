@@ -55,11 +55,7 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 ## 💡 Heap Visualization
 
 <p align="center">
-  <img src="assets/images/heap.svg" width="650"/>
-</p>
-
-<p align="center">
-  <img src="assets/animations/heap.gif" width="650"/>
+  <img src="assets/images/meeting-room-heapv.svg" width="650"/>
 </p>
 
 ---
