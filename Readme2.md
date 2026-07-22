@@ -40,7 +40,9 @@ If the number of elements is less than **A**, output **-1**.
 ## 🎥 Animation
 
 <p align="center">
-<img src="./images/ath-largest-animation.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/animations/ath-anim.gif"
+       width="750"
+       alt="Ath Larget Element"/>
 </p>
 
 ---
