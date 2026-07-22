@@ -1,0 +1,7 @@
+flowchart TD
+A[Sort Meetings]-->B[Min Heap]
+B-->C{Room Free?}
+C--Yes-->D[Reuse]
+C--No-->E[New Room]
+D-->F[Push End]
+E-->F
