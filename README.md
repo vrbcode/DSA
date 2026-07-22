@@ -29,35 +29,34 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 <p align="center">
   <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/meeting-room-illu.svg" width="700" alt="Meeting Rooms II Illustration"/>
 </p>
----
+
 ## 🎥 Animation
 
 <p align="center">
   <img src="assets/animations/meeting-room.gif" width="700"/>
 </p>
 
----
+
 ## 🔄 Flowchart
 
 <p align="center">
-  <img src="assets/images/meeting-room-flow.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/meeting-room-flow.svg" width="700" alt="Meeting Rooms II Flowchart"/>
 </p>
 
----
+
 ## 📊 Dry Run
 
 <p align="center">
-  <img src="assets/images/meeting-room-dryrun.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/meeting-room-dryrun.svg" width="700" alt="Meeting Rooms II Dry Run"/>
 </p>
 
----
+
 ## 💡 Heap Visualization
 
 <p align="center">
-  <img src="assets/images/meeting-room-heapv.svg" width="650"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/meeting-room-heapv.svg" width="650" alt="Meeting Rooms II Heap Visualization"/>
 </p>
 
----
 
 ### Example 1
 
