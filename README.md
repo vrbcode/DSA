@@ -27,9 +27,8 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 ## 🖼️ Problem Illustration
 
 <p align="center">
-  <img src="assets/images/meeting-room-illu.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/meeting-room-illu.svg" width="700" alt="Meeting Rooms II Illustration"/>
 </p>
-
 ---
 ## 🎥 Animation
 
