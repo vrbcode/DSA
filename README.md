@@ -24,6 +24,49 @@
 ## 📄 Problem Statement
 
 Given an array of meeting time intervals where each interval is `[start, end]` (`start < end`), determine the **minimum number of conference rooms** required to host all meetings without overlaps.
+## 🖼️ Problem Illustration
+
+<p align="center">
+  <img src="assets/images/meeting-room.svg" width="700"/>
+</p>
+
+---
+## 🎥 Animation
+
+<p align="center">
+  <img src="assets/animations/meeting-room.gif" width="700"/>
+</p>
+
+---
+## 🔄 Flowchart
+
+<p align="center">
+  <img src="assets/images/flowchart.svg" width="700"/>
+</p>
+
+---
+## 📊 Dry Run
+
+<p align="center">
+  <img src="assets/images/dry-run.svg" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/animations/dry-run.gif" width="700"/>
+</p>
+
+---
+## 💡 Heap Visualization
+
+<p align="center">
+  <img src="assets/images/heap.svg" width="650"/>
+</p>
+
+<p align="center">
+  <img src="assets/animations/heap.gif" width="650"/>
+</p>
+
+---
 
 ### Example 1
 
@@ -144,6 +187,38 @@ function minMeetingRooms(intervals):
 ## 📄 Problem Statement
 
 Given a nearly sorted array where every element is at most **K positions away** from its correct sorted position, sort the array efficiently.
+## 🖼️ Illustration
+
+<p align="center">
+<img src="assets/images/heap.svg" width="650"/>
+</p>
+
+---
+## 🎥 Heap Animation
+
+<p align="center">
+<img src="assets/animations/heap.gif" width="650"/>
+</p>
+
+---
+## 🔄 Flowchart
+
+<p align="center">
+<img src="assets/images/flowchart.svg" width="700"/>
+</p>
+
+---
+## 📊 Dry Run
+
+<p align="center">
+<img src="assets/images/dry-run.svg" width="700"/>
+</p>
+
+<p align="center">
+<img src="assets/animations/dry-run.gif" width="700"/>
+</p>
+
+---
 
 ### Example
 
@@ -236,6 +311,28 @@ Given an array `A`, find the minimum distance between any two equal elements.
 If no duplicate exists, return **-1**.
 
 ---
+## 🖼️ HashMap Illustration
+
+<p align="center">
+<img src="assets/images/hashmap.svg" width="650"/>
+</p>
+
+---
+
+## 🎥 HashMap Animation
+
+<p align="center">
+<img src="assets/animations/hashmap.gif" width="650"/>
+</p>
+
+---
+## 🔄 Flowchart
+
+<p align="center">
+<img src="assets/images/flowchart.svg" width="700"/>
+</p>
+
+---
 
 ### Example
 
@@ -262,6 +359,17 @@ Distance = 5
 
 Minimum = 3
 ```
+
+---
+## 📊 Dry Run
+
+<p align="center">
+<img src="assets/images/dry-run.svg" width="700"/>
+</p>
+
+<p align="center">
+<img src="assets/animations/dry-run.gif" width="700"/>
+</p>
 
 ---
 
@@ -336,7 +444,27 @@ Given strings `s` and `t`, return the **minimum window substring** of `s` contai
 Return `""` if no valid window exists.
 
 ---
+## 🖼️ Sliding Window Illustration
 
+<p align="center">
+<img src="assets/images/sliding-window.svg" width="700"/>
+</p>
+
+---
+## 🎥 Sliding Window Animation
+
+<p align="center">
+<img src="assets/animations/sliding-window.gif" width="700"/>
+</p>
+
+---
+## 🔄 Flowchart
+
+<p align="center">
+<img src="assets/images/flowchart.svg" width="700"/>
+</p>
+
+---
 ### Example
 
 **Input**
@@ -354,6 +482,18 @@ t = "ABC"
 ```
 
 ---
+## 📊 Dry Run
+
+<p align="center">
+<img src="assets/images/dry-run.svg" width="700"/>
+</p>
+
+<p align="center">
+<img src="assets/animations/dry-run.gif" width="700"/>
+</p>
+
+---
+
 
 ## 💡 Sliding Window Strategy
 
