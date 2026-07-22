@@ -41,7 +41,7 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 ## 🔄 Flowchart
 
 <p align="center">
-  <img src="assets/images/flowchart.svg" width="700"/>
+  <img src="assets/images/meeting-room-flow.svg" width="700"/>
 </p>
 
 ---
