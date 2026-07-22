@@ -27,7 +27,7 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 ## 🖼️ Problem Illustration
 
 <p align="center">
-  <img src="assets/images/meeting-room.svg" width="700"/>
+  <img src="assets/images/meeting-room-illu.svg" width="700"/>
 </p>
 
 ---
