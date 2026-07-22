@@ -32,7 +32,7 @@ If the number of elements is less than **A**, output **-1**.
 ## 🖼️ Illustration
 
 <p align="center">
-<img src="./images/ath-largest-illustration.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/ath-illu.svg" width="650" alt="Meeting Rooms II Heap Visualization"/>
 </p>
 
 ---
@@ -48,25 +48,22 @@ If the number of elements is less than **A**, output **-1**.
 ## 🔄 Flowchart
 
 <p align="center">
-<img src="./images/ath-largest-flowchart.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/ath-flow.svg" width="650" alt="Meeting Rooms II Heap Visualization"/>
 </p>
-
 ---
 
 ## 📊 Dry Run
 
 <p align="center">
-<img src="./images/ath-largest-dryrun.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/ath-dry.svg" width="650" alt="Meeting Rooms II Heap Visualization"/>
 </p>
-
 ---
 
 ## 💡 Heap Visualization
 
 <p align="center">
-<img src="./images/ath-largest-heap.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/images/ath-heap.svg" width="650" alt="Meeting Rooms II Heap Visualization"/>
 </p>
-
 ---
 
 ## Example
