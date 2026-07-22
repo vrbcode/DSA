@@ -33,7 +33,9 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 ## 🎥 Animation
 
 <p align="center">
-  <img src="assets/animations/meeting-room.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/vrbcode/DSA/main/assets/animations/meeting-room.gif"
+       width="750"
+       alt="Meeting Rooms II Animation"/>
 </p>
 
 
