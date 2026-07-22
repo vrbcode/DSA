@@ -48,11 +48,7 @@ Given an array of meeting time intervals where each interval is `[start, end]` (
 ## 📊 Dry Run
 
 <p align="center">
-  <img src="assets/images/dry-run.svg" width="700"/>
-</p>
-
-<p align="center">
-  <img src="assets/animations/dry-run.gif" width="700"/>
+  <img src="assets/images/meeting-room-dryrun.svg" width="700"/>
 </p>
 
 ---
